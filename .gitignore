@@ -68,3 +68,13 @@ unittests.cfg
 ############################
 .DS_Store
 Thumbs.db
+
+
+# Processed output data
+data/processed.csv/
+
+# Or ignore all generated outputs
+
+# Ignore all processed data folders
+**/data/processed.csv/
+
